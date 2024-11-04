@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ElaWidgetToolsExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ElaWidgetToolsExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ElaWidgetToolsExample-Debug-d196cf0e4707813cd38f.json",
+					"name" : "ElaWidgetToolsExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ElaWidgetToolsExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ElaWidgetToolsExample_autogen-Debug-310ff1d731987b8f5f7e.json",
+					"name" : "ElaWidgetToolsExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ElaWidgetToolsExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ElaWidgetToolsExample_autogen_timestamp_deps-Debug-fa6e05e7c2a7b664cb30.json",
+					"name" : "ElaWidgetToolsExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/github/ElaWidgetToolsExample/ElaWidgetToolsExample/cmake-build-debug",
+		"source" : "D:/github/ElaWidgetToolsExample/ElaWidgetToolsExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,4 @@
+ToolSet: 16.0 (local)@D:\element\VS2019
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=D:/software/CLion/bin/ninja/win/x64/ninja.exe

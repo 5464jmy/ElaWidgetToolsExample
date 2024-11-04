@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="ElaWidgetToolsExample" targetName="ElaWidgetToolsExample" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f13c51b3-dc13-47b2-85c3-c4ecd429a2c4" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaBaseListView.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaBaseListView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaBreadcrumbBarDelegate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaBreadcrumbBarDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaBreadcrumbBarModel.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaBreadcrumbBarModel.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCalendarDelegate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCalendarDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCalendarModel.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCalendarModel.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCalendarPickerContainer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCalendarPickerContainer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCalendarTitleDelegate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCalendarTitleDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCalendarTitleModel.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCalendarTitleModel.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCentralStackedWidget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCentralStackedWidget.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCheckBoxStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCheckBoxStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaColorDisplayDelegate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaColorDisplayDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaColorDisplayModel.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaColorDisplayModel.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaColorPicker.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaColorPicker.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaColorPreview.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaColorPreview.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaColorValueSliderStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaColorValueSliderStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaComboBoxStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaComboBoxStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaComboBoxView.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaComboBoxView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCustomTabWidget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCustomTabWidget.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCustomWidget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaCustomWidget.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaDockWidgetTitleBar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaDockWidgetTitleBar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaDxgi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaDxgi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaFooterDelegate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaFooterDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaFooterModel.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaFooterModel.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaIntValidator.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaIntValidator.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaLineEditStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaLineEditStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaListViewStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaListViewStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaMaskWidget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaMaskWidget.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaMenuBarStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaMenuBarStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaMenuStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaMenuStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaMicaBaseInitObject.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaMicaBaseInitObject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaNavigationModel.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaNavigationModel.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaNavigationNode.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaNavigationNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaNavigationStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaNavigationStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaNavigationView.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaNavigationView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaPivotModel.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaPivotModel.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaPivotStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaPivotStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaPivotView.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaPivotView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaPlainTextEditStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaPlainTextEditStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaPopularCardFloater.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaPopularCardFloater.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaProgressBarStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaProgressBarStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaRadioButtonStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaRadioButtonStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaScrollBarStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaScrollBarStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaSliderStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaSliderStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaSpinBoxStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaSpinBoxStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaStatusBarStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaStatusBarStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaSuggestBoxSearchViewContainer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaSuggestBoxSearchViewContainer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaSuggestDelegate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaSuggestDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaSuggestModel.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaSuggestModel.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaTabBarStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaTabBarStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaTableViewStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaTableViewStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaThemeAnimationWidget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaThemeAnimationWidget.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaToolBarStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaToolBarStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaToolButtonStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaToolButtonStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaTreeViewStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaTreeViewStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaWinShadowHelper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaWindowStyle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/DeveloperComponents/ElaWindowStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaAcrylicUrlCard.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaAppBar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaApplication.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaBreadcrumbBar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaCalendar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaCalendarPicker.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaCheckBox.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaColorDialog.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaComboBox.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaContentDialog.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaDockWidget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaDoubleSpinBox.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaDxgiManager.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaEventBus.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaExponentialBlur.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaFlowLayout.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaGraphicsItem.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaGraphicsLineItem.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaGraphicsScene.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaGraphicsView.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaIcon.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaIconButton.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaImageCard.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaInteractiveCard.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaLineEdit.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaListView.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaLog.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaMenu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaMenuBar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaMessageBar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaMessageButton.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaMultiSelectComboBox.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaNavigationBar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaNavigationRouter.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaPivot.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaPlainTextEdit.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaPopularCard.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaProgressBar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaPromotionCard.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaPromotionView.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaPushButton.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaRadioButton.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaReminderCard.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaScrollArea.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaScrollBar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaScrollPage.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaScrollPageArea.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaSlider.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaSpinBox.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaStatusBar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaSuggestBox.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaTabBar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaTabWidget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaTableView.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaText.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaTheme.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaToggleButton.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaToggleSwitch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaToolBar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaToolButton.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaToolTip.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaTreeView.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaWidget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/ElaWindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/Def.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaAcrylicUrlCard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaAppBar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaApplication.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaBreadcrumbBar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaCalendar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaCalendarPicker.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaCheckBox.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaColorDialog.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaComboBox.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaContentDialog.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaDockWidget.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaDoubleSpinBox.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaDxgiManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaEventBus.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaExponentialBlur.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaFlowLayout.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaGraphicsItem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaGraphicsLineItem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaGraphicsScene.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaGraphicsView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaIcon.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaIconButton.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaImageCard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaInteractiveCard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaLineEdit.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaListView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaLog.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaMenu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaMenuBar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaMessageBar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaMessageButton.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaMultiSelectComboBox.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaNavigationBar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaNavigationRouter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaPivot.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaPlainTextEdit.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaPopularCard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaProgressBar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaPromotionCard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaPromotionView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaPushButton.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaRadioButton.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaReminderCard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaScrollArea.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaScrollBar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaScrollPage.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaScrollPageArea.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaSlider.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaSpinBox.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaStatusBar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaSuggestBox.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaTabBar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaTabWidget.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaTableView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaText.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaTheme.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaToggleButton.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaToggleSwitch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaToolBar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaToolButton.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaToolTip.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaTreeView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaWidget.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaWidgetTools.qrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/ElaWindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/Font/ElaAwesome.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/Image/Cirno.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/Image/MicaBase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/Image/Moon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/Image/noise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/singleton.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/include/stdafx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaAcrylicUrlCardPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaAcrylicUrlCardPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaAppBarPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaAppBarPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaApplicationPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaApplicationPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaBreadcrumbBarPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaBreadcrumbBarPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaCalendarPickerPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaCalendarPickerPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaCalendarPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaCalendarPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaColorDialogPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaColorDialogPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaComboBoxPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaComboBoxPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaContentDialogPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaContentDialogPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaDockWidgetPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaDockWidgetPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaDoubleSpinBoxPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaDoubleSpinBoxPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaDxgiManagerPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaDxgiManagerPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaEventBusPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaEventBusPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaExponentialBlurPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaExponentialBlurPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaFlowLayoutPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaFlowLayoutPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaGraphicsItemPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaGraphicsItemPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaGraphicsLineItemPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaGraphicsLineItemPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaGraphicsScenePrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaGraphicsScenePrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaGraphicsViewPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaGraphicsViewPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaIconButtonPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaIconButtonPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaImageCardPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaImageCardPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaInteractiveCardPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaInteractiveCardPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaLineEditPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaLineEditPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaListViewPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaListViewPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaLogPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaLogPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaMenuPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaMenuPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaMessageBarPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaMessageBarPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaMessageButtonPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaMessageButtonPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaMultiSelectComboBoxPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaMultiSelectComboBoxPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaNavigationBarPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaNavigationBarPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaNavigationRouterPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaNavigationRouterPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaPivotPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaPivotPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaPlainTextEditPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaPlainTextEditPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaPopularCardPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaPopularCardPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaProgressBarPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaProgressBarPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaPromotionCardPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaPromotionCardPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaPromotionViewPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaPromotionViewPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaPushButtonPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaPushButtonPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaRadioButtonPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaRadioButtonPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaReminderCardPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaReminderCardPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaScrollAreaPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaScrollAreaPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaScrollBarPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaScrollBarPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaScrollPageAreaPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaScrollPageAreaPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaScrollPagePrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaScrollPagePrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaSpinBoxPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaSpinBoxPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaSuggestBoxPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaSuggestBoxPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaTabBarPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaTabBarPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaTabWidgetPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaTabWidgetPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaTableViewPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaTableViewPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaTextPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaTextPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaThemePrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaThemePrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaToggleButtonPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaToggleButtonPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaToggleSwitchPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaToggleSwitchPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaToolBarPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaToolBarPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaToolButtonPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaToolButtonPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaToolTipPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaToolTipPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaTreeViewPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaTreeViewPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaWidgetPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaWidgetPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaWindowPrivate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ElaWidgetTools/private/ElaWindowPrivate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2oNHBnhhbFhMJzLDfiP4801oWAY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake 应用程序.ElaWidgetToolsExample.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/github/ElaWidgetToolsExample/ElaWidgetToolsExample",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\ElaWidgetToolsExample\ElaWidgetToolsExample" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElaWidgetToolsExample" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ElaWidgetToolsExample" TARGET_NAME="ElaWidgetToolsExample" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ElaWidgetToolsExample" RUN_TARGET_NAME="ElaWidgetToolsExample">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f13c51b3-dc13-47b2-85c3-c4ecd429a2c4" name="更改" comment="" />
+      <created>1730702979896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730702979896</updated>
+      <workItem from="1730702980954" duration="114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

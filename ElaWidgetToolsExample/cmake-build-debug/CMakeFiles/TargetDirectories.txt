@@ -1,0 +1,5 @@
+D:/github/ElaWidgetToolsExample/ElaWidgetToolsExample/cmake-build-debug/CMakeFiles/ElaWidgetToolsExample.dir
+D:/github/ElaWidgetToolsExample/ElaWidgetToolsExample/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/github/ElaWidgetToolsExample/ElaWidgetToolsExample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/github/ElaWidgetToolsExample/ElaWidgetToolsExample/cmake-build-debug/CMakeFiles/ElaWidgetToolsExample_autogen_timestamp_deps.dir
+D:/github/ElaWidgetToolsExample/ElaWidgetToolsExample/cmake-build-debug/CMakeFiles/ElaWidgetToolsExample_autogen.dir
